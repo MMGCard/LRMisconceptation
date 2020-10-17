@@ -2,7 +2,7 @@
 
 ## Misconceptations on Using Linear Regression
 
-"The scatter plots of y x x_i don't think this is linear so let's try Random Forest or Neural Network". Reality is that linear regression still is the work horse of Machine Learning.
+"The scatter plots of y x $x_{i}$ don't think this is linear so let's try Random Forest or Neural Network". Reality is that linear regression still is the work horse of Machine Learning.
 
 ## What Should be Linear in Linear Regressions?
 
