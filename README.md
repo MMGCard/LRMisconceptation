@@ -2,7 +2,7 @@
 
 ## Misconceptations on Using Linear Regression
 
-"The scatter plots of <i>y ~ x<sub>i</sub><i> don't look linear to me. Let's use then Random Forest or Neural Network". Reality is that linear regression still is the workhorse of Machine Learning despite several misconceptations regarding its applicability. 
+"The scatter plots of <i>y ~ x<sub>i</sub></i> don't look linear to me. Let's use then Random Forest or Neural Network". Reality is that linear regression still is the workhorse of Machine Learning despite several misconceptations regarding its applicability. 
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
