@@ -2,7 +2,7 @@
 
 ## Misconceptations on Using Linear Regression
 
-"The scatter plots of <b><i>y ~ x<sub>i</sub></i></b> don't look linear to me. Let's use then Random Forest or Neural Network since LInear Regression wouldn't be applicable here". Reality is that Linear Regression still is the workhorse of Machine Learning despite several misconceptations regarding its applicability. 
+"The scatter plots of <b><i>y ~ x<sub>i</sub></i></b> don't look linear to me. Let's use then Random Forest or Neural Network since LInear Regression wouldn't be applicable here". Reality is that Linear Regression still is the workhorse of Machine Learning and there are several misconceptations regarding its applicability. 
 
 ## What Should be <i>Linear</i> in <i>Linear</i> Regressions?
 
