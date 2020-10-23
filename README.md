@@ -15,3 +15,5 @@ Linear refers to the relationship between the parameters that you are estimating
 [Basis expansion and splines](https://bobby.gramacy.com/surrogates/splines.html)
 
 [Introduction to Bayesian Linear Regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+
+[Understanding Linear Regression](https://towardsdatascience.com/understanding-linear-regression-94a6ab9595de)
