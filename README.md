@@ -10,6 +10,8 @@ Linear refers to the relationship between the parameters that you are estimating
 
 ### Reference Websites
 
+[A Comparison of Basis Expansions in Regression](https://github.com/madrury/basis-expansions/blob/master/examples/comparison-of-smoothing-methods.ipynb)
+
 [What does linear stand for in linear regression?](https://stats.stackexchange.com/questions/8689/what-does-linear-stand-for-in-linear-regression)
 
 [Basis expansion and splines](https://bobby.gramacy.com/surrogates/splines.html)
